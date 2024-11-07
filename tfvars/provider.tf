@@ -11,7 +11,7 @@ terraform {
   #   key    = "foreach"
   #   region = "us-east-1"
   #   dynamodb_table = "daws-tflocking"
-  # }
+  }
 }
 provider "aws" {
   # Configuration options
